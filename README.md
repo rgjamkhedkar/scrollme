@@ -7,4 +7,4 @@ This fork uses JQuery 3. If you need to support JQuery 1, please use original.
 
 Demo and usage guide: http://scrollme.nckprsn.com.
 
-Play with it on CodePen: http://codepen.io/nckprsn/pen/IGpmc
+Play with it on CodePen: https://codepen.io/rohanj/pen/yzerWZ
