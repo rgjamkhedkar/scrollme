@@ -550,7 +550,6 @@ var scrollme = (function($) {
   // ----------------------------------------------------------------------------------------------------
   // Bind initialisation
   $.when($.ready).then(function() {
-    console.log('In ready');
     _this.init();
   });
 

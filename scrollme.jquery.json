@@ -1,7 +1,7 @@
 {
   "name": "scrollme",
   "title": "ScrollMe",
-  "description": "A jQuery plugin for adding simple scrolling effects to web pages.",
+  "description": "A jQuery 3 plugin for adding simple scrolling effects to web pages.",
   "keywords": [
     "animation",
     "scrolling"
@@ -23,6 +23,6 @@
   "docs": "http://scrollme.nckprsn.com/",
   "download": "https://github.com/nckprsn/scrollme",
   "dependencies": {
-    "jquery": ">=1.8"
+    "jquery": ">=3.0"
   }
 }
